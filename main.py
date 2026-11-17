@@ -7,7 +7,7 @@ Ishga tushirish:  python main.py
 # ╔══════════════════════════════════════════════════════════════╗
 # ║                     SOZLAMALAR (SHU YERNI TO'LDIRING)         ║
 # ╚══════════════════════════════════════════════════════════════╝
-BOT_TOKEN = "9285873294:AAESgek1ujw3bJZbA-LIcoOqycZ8MnI_m2M"  # @BotFather bergan token
+BOT_TOKEN = "9285873294:AAHse9OEmKym4Ri088d8Lqo6CMK0yWI7nvA"  # @BotFather bergan token
 ADMIN_ID = 8431665446# ════════════════════════════════════════════════════════════════
 
 import asyncio
